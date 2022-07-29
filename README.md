@@ -1,7 +1,5 @@
 # Procurement-for-Construction-Industry-Web-App
 Web application for Procurement for Construction Industry. Through this system Site manager able to control the procurement of goods directly or independently. Only the Site manager can raise purchase orders
-# CSSE_WEB
-Web application for Procurement for Construction Industry. Through this system Site manager able to control the procurement of goods directly or independently. Only the Site manager can raise purchase orders
 
 ---
 
